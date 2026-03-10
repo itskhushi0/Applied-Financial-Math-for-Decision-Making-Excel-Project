@@ -50,7 +50,7 @@ Evaluate the OceanBlue Fund to determine which return metric better reflects per
 - Used Excel’s `GEOMEAN` function for time-weighted returns.
 
 **Screenshot:**  
-![Case 2 Screenshot](images/Case2.png)
+![Case 2 Screenshot](Case2.png)
 
 **Findings & Recommendation:**  
 - Money-weighted return (IRR): 8.11%  
@@ -73,7 +73,7 @@ Recommend the best facility investment option for Orion Technologies based on NP
 - Compared multiple cash flow scenarios and noted IRR limitations when multiple sign changes occur.
 
 **Screenshot:**  
-![Case 3 Screenshot](images/Case3.png)
+![Case 3 Screenshot](Case3.png)
 
 **Findings & Recommendation:**  
 - Facility 1: NPV < Facility 2  
@@ -96,7 +96,7 @@ Determine which bond among three fixed-income securities provides the highest cu
 - Computed current yield as `Annual Coupon Payment / Current Price`.  
 
 **Screenshot:**  
-![Case 4 Screenshot](images/Case4.png)
+![Case 4 Screenshot](Case4.png)
 
 **Findings & Recommendation:**  
 - Bond A: 6.21%  
@@ -119,7 +119,7 @@ Analyze three money market investments to determine HPY, EAY, and MNY, guiding t
 - Compared yields to recommend the optimal investment.
 
 **Screenshot:**  
-![Case 5 Screenshot](images/Case5.png)
+![Case 5 Screenshot](Case5.png)
 
 **Findings & Recommendation:**  
 - Investment 1: EAY = 18.00%, MNY = 16.67%  

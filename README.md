@@ -26,7 +26,7 @@ Advise Mr. Thompson on the best annuity plan among three options: ordinary annui
 - Ordinary annuity, delayed annuity (discounted to present), and growing perpetuity evaluated using standard financial formulas.  
 
 **Screenshot:**  
-![Case 1 Screenshot](images/Case1.png)
+![Case 1 Screenshot](Case1.png)
 
 **Findings & Recommendation:**  
 - Ordinary annuity PV: \$383,500.68  
